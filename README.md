@@ -1,4 +1,4 @@
-### Hi there 😉🖐
+### Hi there 😉
 
 My name is Matheus Trevejo I like technology and learning programming 
 <br>
