@@ -1,6 +1,6 @@
 ### Hi there 😉
 
-My name is Matheus Trevejo I like technology and learning programming 
+My name is Matheus Trevejo i am Brazilian and I like technology and learning programming 
 <br>
 I am currently practicing and creating projects in:
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-Logo"/>
